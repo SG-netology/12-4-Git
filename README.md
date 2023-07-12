@@ -18,10 +18,10 @@
 
 Получите количество фильмов, продолжительность которых больше средней продолжительности всех фильмов.
 
-![1-1](https://github.com/SG-netology/12-4-Git/blob/main/2-1.png)
+![2-1](https://github.com/SG-netology/12-4-Git/blob/main/2-1.png)
 
 Задание 3
 
 Получите информацию, за какой месяц была получена наибольшая сумма платежей, и добавьте информацию по количеству аренд за этот месяц.
 
-![1-1](https://github.com/SG-netology/12-4-Git/blob/main/3-1.png)
+![3-1](https://github.com/SG-netology/12-4-Git/blob/main/3-1.png)
